@@ -1,4 +1,6 @@
 To run our code: follow the kaggle link of each notebook and choose the gpu to be P100
+Machine learning model folder:
+	kaggle link: https://www.kaggle.com/code/hungvipqt2k2/ngrams-model
 
 Deep learning model folder:
 	amazon-sentiment-analysis-notebook.ipynb: 
